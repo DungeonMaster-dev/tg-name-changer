@@ -13,11 +13,15 @@ cd tg-name-changer
 python -m venv venv
 
 Windows:
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 Linux/Mac:
+
 source venv/bin/activate
+
 pip install -r requirements.txt
 
 API-ключи: зайди на my.telegram.org → API development tools → заполни форму (Short name — только строчные латинские без спецсимволов, Platform — Desktop). Скопируй api_id и api_hash.

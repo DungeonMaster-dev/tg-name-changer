@@ -7,7 +7,9 @@
 Python 3.10+.
 
 git clone https://github.com/DungeonMaster/tg-name-changer.git
+
 cd tg-name-changer
+
 python -m venv venv
 
 Windows:
